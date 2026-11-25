@@ -1,4 +1,4 @@
-import { list, option, pythonSummary, selectors, stdout, value } from '@cairul/plugin-kit/runner';
+import { list, option, pythonSummary, selectors, stdout, value } from '@cairul/pdk/runner';
 
 export default {
   command: ['python3', '-m', 'unittest'],
